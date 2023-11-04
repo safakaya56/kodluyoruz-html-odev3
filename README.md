@@ -1,2 +1,2 @@
-# kodluyoruz-html-odev3
-kodluyoruz frontend dev eğitimi html ödevi 3
+# kodluyoruz-html-odev3 
+kodluyoruz front-end dev eğitiminin 3. html ödevi için yazdığım web sayfası.
